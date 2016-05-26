@@ -202,4 +202,20 @@
       }
     }
   ]
+},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2921,
+          36.8219
+        ]
+      },
+      "properties": {
+        "name": "Nairobi, Kenya"
+      }
+    }
+  ]
 }
+
